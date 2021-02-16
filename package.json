@@ -1,0 +1,19 @@
+{
+  "name": "lrm-google-routing",
+  "version": "1.0.0",
+  "description": "Extends [Leaflet Routing Machine](https://github.com/perliedman/leaflet-routing-machine) with support for [Google Directions API](https://developers.google.com/maps/documentation/directions/intro).",
+  "main": "lrm-google.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PavlaQ/Leaflet-Google-Routing.git"
+  },
+  "author": "Paweł Niekłań",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PavlaQ/Leaflet-Google-Routing/issues"
+  },
+  "homepage": "https://github.com/PavlaQ/Leaflet-Google-Routing#readme"
+}
